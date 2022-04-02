@@ -17,7 +17,7 @@
   const linkEl = document.createElement('link')
   linkEl.rel = 'stylesheet'
   linkEl.type = 'text/css'
-  linkEl.href = 'https://cdn.jsdelivr.net/gh/donaldxdonald/filters_for_stackoverflow@master/primary.css'
+  linkEl.href = 'https://cdn.jsdelivr.net/gh/donaldxdonald/filters_for_stackoverflow@master/primary.min.css'
 
   // sticky element
   const stickyEl = document.createElement('div')
